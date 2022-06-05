@@ -1,0 +1,8 @@
+<div class="bold">My first CSS file </div>
+<style>
+.bold {
+    font-weight: bold;
+    font-size: 25px;
+    color: #5263f3
+}
+</style>
