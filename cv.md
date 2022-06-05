@@ -25,8 +25,8 @@ My motto is "Never stop learning". I decided to take online-course on front-end,
 *WEHRLE-WERK AG (Emmendingen, Germany)*
 Project engineer for industrial wastewater treatment plants
 
-* **June 2017-April 2018** 
-*University of Stuttgart, IWS (Stuttgart, Germany)* 
+* **June 2017-April 2018**
+*University of Stuttgart, IWS (Stuttgart, Germany)*
 Student research assitent in numerical modelling and hydraulic model tests to control flood retention basins
 
 * **August 2014-August 2016**
@@ -35,10 +35,10 @@ Project engineer of water supply and sewerage system in industrial and public bu
 
 ***
 ### Education and courses
-* **June 2022 - now** 
+* **June 2022 - now**
 *"JavaScript. Front-end. Stage0"* (online course by [RS school](https://rs.school/))
 
-* **October 2016-December 2018** 
+* **October 2016-December 2018**
 *M. Sc. Water Resources Engineering and Management* (University of Stuttgart, Germany)
 
 * **September 2009-June 2014**
@@ -53,10 +53,10 @@ Project engineer of water supply and sewerage system in industrial and public bu
 
 **Technical skills**
 * _Civil Engineering_
-  + AutoCAD 2018; 
-  + ArcGIS; 
-  + EpaNET; 
-  + SMS 11.1; 
+  + AutoCAD 2018;
+  + ArcGIS;
+  + EpaNET;
+  + SMS 11.1;
   + Hydro_AS-2D Basement;
   + MS Navision
 * _Programming (in progress)_
