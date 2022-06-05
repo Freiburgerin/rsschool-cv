@@ -1,1 +1,1 @@
-https://Freiburgerin.github.io/rsschool-cv/cv
+https://Freiburgerin.github.io/rsschool-cv/
